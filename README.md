@@ -1,4 +1,4 @@
-# meteorReactSPA
+# meteor-react-imgur
 
 **[Demo](https://meteor-react-imgur.herokuapp.com)**
 
