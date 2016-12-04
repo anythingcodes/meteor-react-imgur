@@ -23,6 +23,7 @@ class App extends Component {
     render() {
         return (
             <div>
+                <h1>meteorReactSPA Image List</h1>
                 <ImageList images={this.state.images} />
             </div>
         );
