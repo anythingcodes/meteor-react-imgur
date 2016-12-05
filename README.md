@@ -6,4 +6,4 @@ A React, Meteor, and node single-page app that pulls in the top imgur images usi
 
 ## Instructions
 
-Navigate to the `meteorReactSPA/images` folder in the command line. Make sure you have node installed on your machine, then run `npm i` to install node modules. Make sure you have Meteor installed on your machine, then run `meteor` from that directory. You will be given the app's URL.
+Navigate to the `meteor-react-imgur/images` folder in the command line. Make sure you have node installed on your machine, then run `npm i` to install node modules. Make sure you have Meteor installed on your machine, then run `meteor` from that directory. You will be given the app's URL.
